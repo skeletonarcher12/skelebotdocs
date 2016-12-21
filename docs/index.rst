@@ -13,10 +13,6 @@ SkeleBot is a Discord Bot with many features such as:
 * Fun commands
 * Much, much more!
 
-Setup the bot here:
-
-* :ref:`botsetup`
-
 Contents:
 
 .. toctree::

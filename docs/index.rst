@@ -14,7 +14,7 @@ SkeleBot is a Discord Bot with many features such as:
 * Much, much more!
 
 Setup the bot here:
-:ref:`botsetup`
+* :ref:`botsetup`
 
 Contents:
 

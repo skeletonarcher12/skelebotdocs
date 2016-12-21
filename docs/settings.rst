@@ -5,6 +5,8 @@ These allow you to change the bot's settings
 SetPrefix
 --------
 
+This command is server owner only.
+
 Usage::
 
 	!SetPrefix [NewPrefix]

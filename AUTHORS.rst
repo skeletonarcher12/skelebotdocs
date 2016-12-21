@@ -1,7 +1,6 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
-
+* Skeletonarcher12
+* Amish Shah (discord.js)
 

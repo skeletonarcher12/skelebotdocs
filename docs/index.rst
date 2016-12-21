@@ -8,10 +8,10 @@ Welcome to the SkeleBot documentation!
 
 SkeleBot is a Discord Bot with many features such as:
 
-*Server Moderation
-*Audit logs
-*Fun commands
-*Much, much more!
+* Server Moderation
+* Audit logs
+* Fun commands
+* Much, much more!
 
 Contents:
 

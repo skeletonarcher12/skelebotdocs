@@ -32,3 +32,21 @@ Syntax:
 
 	* {user.mention} - Will mention the user
 	* {user.name} - Adds the user's name
+
+LeaveMessage
+--------
+
+This command is server owner only.
+
+Usage::
+
+	!LeaveMessage [Message]
+	
+Description:
+
+	This allows you to change the message sent when a user leaves the server
+
+Syntax:
+
+	* {user.mention} - Will mention the user
+	* {user.name} - Adds the user's name

@@ -8,7 +8,9 @@ Ping
 Can be used by anyone
 
 Usage::
+
   !ping
  
- Description:
-  Can be used to check if the bot isn't borked
+Description:
+
+ Can be used to check if the bot isn't borked

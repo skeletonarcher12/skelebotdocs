@@ -14,3 +14,21 @@ Usage::
 Description:
   
   This allows you to permanently change the prefix used in your server. 
+
+WelcomeMessage
+--------
+
+This command is server owner only.
+
+Usage::
+
+	!WelcomeMessage [Message]
+	
+Description:
+
+	This allows you to change the message a user gets on joining the server
+
+Syntax:
+
+	* {user.mention} - Will mention the user
+	* {user.name} - Adds the user's name
